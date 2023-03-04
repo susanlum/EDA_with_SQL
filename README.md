@@ -1,1 +1,1 @@
-# EDA_with_SQL
+# EDA of AtliQ Hardware Data Warehouse
